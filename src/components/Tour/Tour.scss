@@ -1,0 +1,15 @@
+.card {
+  border-radius: 0.6rem !important;
+}
+.tour-img {
+  height: 17rem;
+  border-top-left-radius: calc(0.6rem - 1px) !important;
+  border-top-right-radius: calc(0.6rem - 1px) !important;
+  object-fit: cover;
+}
+h3.card-title {
+  text-transform: uppercase;
+}
+h4.card-title {
+  text-transform: capitalize;
+}
